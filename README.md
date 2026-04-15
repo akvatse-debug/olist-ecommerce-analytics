@@ -71,19 +71,24 @@ Page 1 — Executive Overview
 ![Executive Overview](https://raw.githubusercontent.com/akvatse-debug/olist-ecommerce-analytics/main/Executive%20Dashboard.png)
 
 Page 2 — Sales & Revenue
-![Sales Revenue](screenshots/page2_sales_revenue.png)
+
+![Sales Revenue](https://raw.githubusercontent.com/akvatse-debug/olist-ecommerce-analytics/main/Revenue%20and%20Sales.png)
 
 Page 3 — Delivery & Reviews
-![Delivery Reviews](screenshots/page3_delivery_reviews.png)
+
+![Delivery Reviews](https://raw.githubusercontent.com/akvatse-debug/olist-ecommerce-analytics/main/Delivery%20and%20reviews.png)
 
 Page 4 — Customer Analysis
-![Customer Analysis](screenshots/page4_customer_analysis.png)
+
+![Customer Analysis](https://raw.githubusercontent.com/akvatse-debug/olist-ecommerce-analytics/main/Customer%20Analysis.png)
 
 Page 5 — Seller Health
-![Seller Health](screenshots/page5_seller_health.png)
+
+![Seller Health](https://raw.githubusercontent.com/akvatse-debug/olist-ecommerce-analytics/main/Seller%20Health%20Analysis.png)
 
 Page 6 — Key Insights
-![Key Insights](screenshots/page6_key_insights.png)
+
+![Key Insights](https://raw.githubusercontent.com/akvatse-debug/olist-ecommerce-analytics/main/Insights%20and%20Recommendations.png)
 
 
 Author
