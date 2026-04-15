@@ -68,7 +68,7 @@ Dashboard Screenshots
 
 Page 1 — Executive Overview
 
-![Executive Overview](Executive Dashboard.png)
+![Executive Overview](https://raw.githubusercontent.com/akvatse-debug/olist-ecommerce-analytics/main/Executive%20Dashboard.png)
 
 Page 2 — Sales & Revenue
 ![Sales Revenue](screenshots/page2_sales_revenue.png)
