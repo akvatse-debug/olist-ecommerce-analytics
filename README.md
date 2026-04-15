@@ -67,6 +67,7 @@ Business Recommendations
 Dashboard Screenshots
 
 Page 1 — Executive Overview
+
 ![Executive Overview](Executive Dashboard.png)
 
 Page 2 — Sales & Revenue
